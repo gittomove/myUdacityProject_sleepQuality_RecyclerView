@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myUdacityProject_sleepQualityApp.iml" filepath="$PROJECT_DIR$/.idea/modules/myUdacityProject_sleepQualityApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myUdacityProject_sleepQualityApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
